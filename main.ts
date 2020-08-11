@@ -1,5 +1,5 @@
 serial.redirectToUSB()
-makerbit.connectUltrasonicDistanceSensor(DigitalPin.P12, DigitalPin.P8)
+makerbit.connectUltrasonicDistanceSensor(DigitalPin.P15, DigitalPin.P14)
 let ultrasonic = 50
 let speed = 150
 let speedBack = -150
