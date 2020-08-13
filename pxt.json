@@ -4,8 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "MakerBit-Ultrasonic": "github:1010technologies/pxt-makerbit-ultrasonic#v1.0.6",
-        "pxt-robotatom": "github:jerabina/pxt-atomrobot#1d07fc7d55914ff8523db4e591b5ecbabf68cdb5"
+        "pxt-robotatom": "github:jerabina/pxt-atomrobot#6af6fc68b987eec3c12f877189d95351042db731",
+        "robotatom": "github:jerabina/pxt-atomrobot#5339364c1f1c51581ff5c34cd6b8fe467b15e953"
     },
     "files": [
         "main.blocks",
