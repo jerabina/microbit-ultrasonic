@@ -4,9 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6",
         "MakerBit-Ultrasonic": "github:1010technologies/pxt-makerbit-ultrasonic#v1.0.6",
-        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+        "pxt-robotatom": "github:jerabina/pxt-atomrobot#1d07fc7d55914ff8523db4e591b5ecbabf68cdb5"
     },
     "files": [
         "main.blocks",
