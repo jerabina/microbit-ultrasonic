@@ -2,8 +2,6 @@
 
 ## Upravit projekt ![Odznak stavu sestavení](https://github.com/jerabina/microbit-ultrasonic/workflows/MakeCode/badge.svg)
 
-Chceš li To edit this repository in MakeCode.
-
 * otevři [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikni na **Import** a vyber **Import URL**
 * vlož adresu **https://github.com/jerabina/microbit-ultrasonic** a klikni na import
