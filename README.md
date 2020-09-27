@@ -1,17 +1,17 @@
 ## Atom robot - Avoidance ultrasonic
 
-## Edit this project ![Odznak stavu sestavení](https://github.com/jerabina/microbit-ultrasonic/workflows/MakeCode/badge.svg)
+## Upravit projekt ![Odznak stavu sestavení](https://github.com/jerabina/microbit-ultrasonic/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
+Chceš li To edit this repository in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/jerabina/microbit-ultrasonic** and click import
+* otevři [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* klikni na **Import** a vyber **Import URL**
+* vlož adresu **https://github.com/jerabina/microbit-ultrasonic** a klikni na import
 
 ## Náhled bloků
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+Tento obrázek ukazuje kód bloků z posledního commitu.
+Obnovení tohoto obrázku může trvat několik minut.
 
 ![Vykreslený náhled bloků](https://github.com/jerabina/microbit-ultrasonic/raw/master/.github/makecode/blocks.png)
 
