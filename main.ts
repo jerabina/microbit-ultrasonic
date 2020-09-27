@@ -18,17 +18,17 @@ basic.forever(function () {
         music.playTone(523, music.beat(BeatFraction.Eighth))
         showLed(2)
         robotAtom.Servo(robotAtom.Servos.S1, 180)
-        robotAtom.MotorRunDual(robotAtom.Motors.M1A, speedBack, robotAtom.Motors.M2B, speedBack)
+        robotAtom.MotorRunAtomStyle(speedBack, speedBack)
         basic.pause(1000)
         if (Math.randomBoolean()) {
-            robotAtom.MotorRunDual(robotAtom.Motors.M1A, 0, robotAtom.Motors.M2B, speed)
+            robotAtom.MotorRunAtomStyle(0, speed)
         } else {
-            robotAtom.MotorRunDual(robotAtom.Motors.M1A, speed, robotAtom.Motors.M2B, 0)
+            robotAtom.MotorRunAtomStyle(speed, 0)
         }
         basic.pause(500)
     } else {
         showLed(1)
         robotAtom.Servo(robotAtom.Servos.S1, 0)
-        robotAtom.MotorRunDual(robotAtom.Motors.M1A, speed, robotAtom.Motors.M2B, speed)
+        robotAtom.MotorRunAtomStyle(speed, speed)
     }
 })

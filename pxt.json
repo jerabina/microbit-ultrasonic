@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "atomrobot": "github:jerabina/pxt-atomrobot#e1e0c54d42f6667335dffb556b6d98b78503d273"
+        "atomrobot": "github:jerabina/pxt-atomrobot#ff95c71c48d42ad04045c631515886b7db3540fa"
     },
     "files": [
         "main.blocks",
