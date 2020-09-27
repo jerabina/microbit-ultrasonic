@@ -1,13 +1,13 @@
 function led2 (num: number) {
     if (num == 1) {
-        range.showColor(neopixel.colors(NeoPixelColors.Green))
+        range2.showColor(neopixel.colors(NeoPixelColors.Green))
     } else if (num == 2) {
-        range.showColor(neopixel.colors(NeoPixelColors.Red))
+        range2.showColor(neopixel.colors(NeoPixelColors.Red))
     }
 }
-let range: neopixel.Strip = null
+let range2: neopixel.Strip = null
 makerbit.connectUltrasonicDistanceSensor(DigitalPin.P15, DigitalPin.P14)
-range = robotAtom.rgb().range(0, 4)
+range2 = robotAtom.rgb().range(0, 4)
 let ultrasonic = 50
 let speed = 150
 let speedBack = -150
